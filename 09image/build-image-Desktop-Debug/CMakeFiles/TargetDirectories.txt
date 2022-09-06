@@ -1,0 +1,10 @@
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image_qmlimportscan.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/install.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/install/local.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image_autogen_timestamp_deps.dir
+/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image_autogen.dir

@@ -1,0 +1,3 @@
+/home/jacob/Code/CPP/Apriorit/05InterProcess/server/build/CMakeFiles/server.dir
+/home/jacob/Code/CPP/Apriorit/05InterProcess/server/build/CMakeFiles/edit_cache.dir
+/home/jacob/Code/CPP/Apriorit/05InterProcess/server/build/CMakeFiles/rebuild_cache.dir

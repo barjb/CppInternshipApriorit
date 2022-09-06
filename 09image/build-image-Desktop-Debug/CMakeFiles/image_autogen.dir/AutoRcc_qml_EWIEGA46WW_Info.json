@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/image_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/image",
+	"CMAKE_SOURCE_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/image",
+	"INCLUDE_DIR" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/image_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/jacob/Code/CPP/Apriorit/09image/image/mylist.qml",
+		"/home/jacob/Code/CPP/Apriorit/09image/image/mypathview.qml",
+		"/home/jacob/Code/CPP/Apriorit/09image/image/main.qml",
+		"/home/jacob/Code/CPP/Apriorit/09image/image/mygrid.qml"
+	],
+	"LOCK_FILE" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/jacob/Qt/6.3.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/CMakeFiles/image_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/jacob/Code/CPP/Apriorit/09image/image/qml.qrc",
+	"VERBOSITY" : 0
+}

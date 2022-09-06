@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/jacob/Code/CPP/Apriorit/05InterProcess/client/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/client.dir/main.cpp.o -c /home/jacob/Code/CPP/Apriorit/05InterProcess/client/main.cpp",
+  "file": "/home/jacob/Code/CPP/Apriorit/05InterProcess/client/main.cpp"
+},
+{
+  "directory": "/home/jacob/Code/CPP/Apriorit/05InterProcess/client/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/client.dir/client.cpp.o -c /home/jacob/Code/CPP/Apriorit/05InterProcess/client/client.cpp",
+  "file": "/home/jacob/Code/CPP/Apriorit/05InterProcess/client/client.cpp"
+}
+]

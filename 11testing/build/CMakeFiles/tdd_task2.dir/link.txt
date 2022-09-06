@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tdd_task2.dir/tdd.cpp.o -o tdd_task2  lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 
