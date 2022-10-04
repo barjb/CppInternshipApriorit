@@ -1,8 +1,0 @@
--rootPath
-/home/jacob/Code/CPP/Apriorit/09image/image
--cmake-output
--output-file
-/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_image.cmake
--importPath
-/home/jacob/Qt/6.3.1/gcc_64/./qml
-/home/jacob/Code/CPP/Apriorit/09image/build-image-Desktop-Debug
